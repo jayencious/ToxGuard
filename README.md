@@ -120,6 +120,14 @@ Returned if the payload is empty or malformed.
 
 ---
 
+## Developers
+- This project was developed and maintained by:
+
+* **[Joel Robert Lakra]** - [jayencious](https://github.com/jayencious)
+* **[Tushar Chaudhary]** - [tusharchaudhary07](https://github.com/tusharchaudhary07)
+
+---
+
 ## Testing
 The API has been rigorously tested using Postman.
 
